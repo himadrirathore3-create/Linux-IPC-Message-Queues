@@ -97,6 +97,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
+<img width="1487" height="1058" alt="Kali Terminal Message Queue Demo" src="https://github.com/user-attachments/assets/b7ba267a-1b73-4d85-895b-b143103185ea" />
 
 
 
